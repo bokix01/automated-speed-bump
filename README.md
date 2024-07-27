@@ -1,6 +1,6 @@
 # Automated speed bump
 
-The inovation is called "Automated speed bump" and can be used on any roads with speed limits. It measures the speed of cars and if they are speeding the speed bump will rise, otherwise it will be down and the road will be flat.
+The innovation is called "Automated speed bump" and can be used on any roads with speed limits. It measures the speed of cars and if they are speeding the speed bump will rise, otherwise it will be down and the road will be flat.
 
 ### Components
 - Arduino Uno Rev3
