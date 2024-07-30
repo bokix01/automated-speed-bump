@@ -1,5 +1,4 @@
 # Automated speed bump
-
 Innovative system for speed bump automation which can be used on any roads with speed limits.
 It measures the speed of cars and if they are speeding the speed bump will rise, otherwise it will be down and the road will be flat.
 
